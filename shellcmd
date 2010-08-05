@@ -1,0 +1,5 @@
+# үгийн жагсаалт
+cat my.txt | tr -s " " "\n" |sort | uniq
+
+# үгийн жагсаалт давтагдсан тоотойгоо
+cat my.txt | tr -s " " "\n" |sort | uniq -c
