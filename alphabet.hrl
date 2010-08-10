@@ -33,7 +33,6 @@
 -define(MONGOLIAN_LETTER_MA, $\x{182e}).  % 6190    ᠮ
 -define(MONGOLIAN_LETTER_ANG, $\x{1829}). % 6185    ᠩ
 -define(MONGOLIAN_LETTER_WA, $\x{1838}).  % 6200    ᠸ
--define(MONGOLIAN_LETTER_SHA, $\x{1831}). % 6193    ᠱ
 -define(MONGOLIAN_LETTER_KA, $\x{183a}).  % 6202    ᠺ
 -define(MONGOLIAN_LETTER_PA, $\x{182b}).  % 6187    ᠫ
 -define(MONGOLIAN_LETTER_FA, $\x{1839}).  % 6201    ᠹ
